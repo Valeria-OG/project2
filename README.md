@@ -1,5 +1,5 @@
 # Project-2
 
 ## Team Members:
-*Paola Obregon Guillermo
-*Valeria Obregon Guillermo
+1. Paola Obregon Guillermo
+2.Valeria Obregon Guillermo
