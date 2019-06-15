@@ -1,7 +1,7 @@
 {
   "development": {
-    "username": "paola",
-    "password": "paola152000",
+    "username": "paola123",
+    "password": "paola12152000",
     "database": "doghome",
     "host": "localhost",
     "dialect": "mysql"
