@@ -13,13 +13,12 @@
             <strong>Description:</strong> {{example.description}}</p>
             <a href="/">← Back To Home</a>
 
-            <button type="button" class="btn btn-success">Adopt Dog</button>
-            <button onclick="myFunction()">Try it</button>
+            <button onclick="adopt()">Adopt dog</button>
             <script>
              
-             function myFunction() {
+             function adopt() {
                var txt;
-               if (confirm("Press a button!")) {
+               if (confirm("You have successfully adopted a dog, thanks for making this choice.")) {
                txt = "You pressed OK!";
                } else {
                txt = "You pressed Cancel!";
