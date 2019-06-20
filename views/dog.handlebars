@@ -14,7 +14,20 @@
             <a href="/">← Back To Home</a>
 
             <button type="button" class="btn btn-success">Adopt Dog</button>
+            <button onclick="myFunction()">Try it</button>
+            <script>
+             
+             function myFunction() {
+               var txt;
+               if (confirm("Press a button!")) {
+               txt = "You pressed OK!";
+               } else {
+               txt = "You pressed Cancel!";
+              }
+              document.getElementById("demo").innerHTML = txt;
+            }
 
+            </script>
         </div>
       </div>
     </div>
