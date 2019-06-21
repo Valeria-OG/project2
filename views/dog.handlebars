@@ -13,20 +13,7 @@
             <strong>Description:</strong> {{example.description}}</p>
             <a href="/">← Back To Home</a>
 
-            <button onclick="adopt('Are you sure you wanr to adopt a dog ?/nYou won't be able to undo this action!')">Adopt dog</button>
-            <script>
-             
-             function adopt() {
-               var txt;
-               if (confirm("You have successfully adopted a dog!! Thanks for making this choice.")) {
-               txt = "You pressed OK!";
-               } else {
-               txt = "You pressed Cancel!";
-              }
-              document.getElementById("demo").innerHTML = txt;
-            }
-
-            </script>
+            <button onclick="adopt()">Adopt dog</button>
         </div>
       </div>
     </div>
