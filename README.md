@@ -15,4 +15,8 @@
 #### We know how big this problem is in our country which is why we wanted to come with a solution for this issue.
 #### ALL ANIMALS DISERVE A FAMILY
 
+Feel free to try out the app through this link:
+[Link to the app](https://paolaog.github.io/Responsive-Portafolio/)
+
+ Feel free to check my portafolio, where i have more projects.
 [Link to My Portafolio](https://paolaog.github.io/Responsive-Portafolio/)
