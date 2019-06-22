@@ -16,7 +16,7 @@
 #### ALL ANIMALS DISERVE A FAMILY
 
 Feel free to try out the app through this link:
-[Link to the app](https://paolaog.github.io/Responsive-Portafolio/)
+[Link to the app](https://sheltered-plains-58713.herokuapp.com/)
 
  Feel free to check my portafolio, where i have more projects.
 [Link to My Portafolio](https://paolaog.github.io/Responsive-Portafolio/)
